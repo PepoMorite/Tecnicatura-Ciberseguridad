@@ -1,0 +1,1 @@
+Hoy tuve clase de matematica Aplicada, arrancando con matematica discreta. No tengo mucho para comentar, solo hubo repaso de ecuaciones y poco mas. Lo veo innecesario subir todo esto porque no creo que lo vuelva a estudiar.
