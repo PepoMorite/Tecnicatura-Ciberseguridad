@@ -1,0 +1,1 @@
+Basicamente cada carpeta describe la materia que tengo en curso, y cada dia se habilita una clase de cada materia. Es mas que nada un proyecto personal, para estudiar yo y tener las bases luego por si otra persona se inscribe en la carrera ya que tenga almenos resumenes de los contenidos q yo eh dado y pueda serle mas facil continuar con la misma. 
