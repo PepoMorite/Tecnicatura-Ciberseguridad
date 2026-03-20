@@ -201,4 +201,19 @@ Su impacto es social, cultural, político y económico, y todavía está en evol
 
 ## 📝 Actividades
 
-(Las actividades del PDF van acá — hacerlas de forma individual)
+1. ¿A qué se refiere, según su criterio Joaquín Aguirre (2010), cuando afirma que "Si la realidad es lo que “es”, la virtualidad apunta hacia la apariencia, a lo fantasmal, al espejismo de realidad." ¿Está de acuerdo? ¿Por qué?
+
+2. Darío Sztajnszrajber refiere que la pregunta sobre si la tecnología ayuda al ser humano o destruye al ser humano, atrasa. Elabore un ejemplo concreto para cada caso.
+
+3. Según Javier Echeverría: ¿cómo podemos definir la "tecnociencia"?
+
+1) Joaquín Aguirre
+Por lo que yo tengo entendido, Aguirre plantea que la realidad es lo concreto y lo que “es”, mientras que la virtualidad como que se relaciona con la apariencia o una representación de la realidad. Es decir, lo virtual no es físico, sino una simulación o construcción, o en sus palabras "espejismo".
+Estoy parcialmente de acuerdo a esto, ya que aunque la virtualidad no es material, no es falsa: las interacciones en el ciberespacio (como en redes sociales) generan efectos reales en la vida de las personas. Para mi, la virtualidad no reemplaza la realidad, pero sí la complementa y transforma.
+
+2) El autor sostiene que preguntarse si la tecnología ayuda o destruye al ser humano es una discusión atrasada, ya que todo depende del uso que se le de a la misma.
+Ejemplo donde ayuda: una persona que estudia a distancia gracias a internet y puede acceder a educación que antes no tenía (como llega a ser nuestro caso)
+Ejemplo donde perjudica: una persona que desarrolla adicción a las redes sociales y se aísla de la vida real, perdiendo asi conexiones valiosas.
+En conclusión, la tecnología no es buena ni mala en sí misma, sino que depende de cómo las personas utilizan la misma.
+
+3) La tecnociencia es la unión entre ciencia y tecnología, donde ambas trabajan juntas de forma integrada y por lo general simultanea. Se refiere a que no solo se trata de generar conocimiento, sino también de aplicarlo directamente.
